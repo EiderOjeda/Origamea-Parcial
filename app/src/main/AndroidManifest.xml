@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eider.origamea">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CategoriaFiguras" />
+        <activity android:name=".Animales" />
+        <activity android:name=".Transporte" />
+        <activity android:name=".Otros" />
+        <activity android:name=".Perro" />
+        <activity android:name=".Pez" />
+        <activity android:name=".Tortuga" />
+        <activity android:name=".Carro" />
+        <activity android:name=".Avion" />
+        <activity android:name=".Barco" />
+        <activity android:name=".Corbata" />
+        <activity android:name=".Camisa" />
+        <activity android:name=".Roca" />
+        <activity android:name=".Instrucciones"></activity>
+    </application>
+
+</manifest>

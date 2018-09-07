@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Origamea</string>
+    <string name="titulo">ORIGAMEA</string>
+    <string name="boton_figuras">FIGURAS</string>
+    <string name="boton_animales">ANIMALES</string>
+    <string name="boton_transporte">TRANSPORTE</string>
+    <string name="boton_otros">OTROS</string>
+    <string name="boton_atras">ATRÁS</string>
+    <string name="tituloCategorias">CATEGORIAS</string>
+    <string name="tituloAnimales">ANIMALES</string>
+    <string name="tituloTransporte">TRANSPORTE</string>
+    <string name="tituloOtros">OTROS</string>
+    <string name="boton_perro">PERRO</string>
+    <string name="boton_tortuga">TORTUGA</string>
+    <string name="boton_pez">PEZ</string>
+    <string name="boton_carro">CARRO</string>
+    <string name="boton_barco">BARCO</string>
+    <string name="boton_avion">AVIÓN</string>
+    <string name="boton_corbata">CORBATA</string>
+    <string name="boton_camisa">Camisa</string>
+    <string name="boton_roca">ROCA</string>
+    <string name="tituloPerro">PERRO</string>
+    <string name="tituloAvion">AVIÓN</string>
+    <string name="tituloCarro">CARRO</string>
+    <string name="tituloTortuga">TORTUGA</string>
+    <string name="tituloPez">PEZ</string>
+    <string name="tituloBarco">BARCO</string>
+    <string name="tituloRoca">ROCA</string>
+    <string name="tituloCamisa">CAMISA</string>
+    <string name="tituloCorbata">CORBATA</string>
+    <string name="boton_anterior">ANTERIOR</string>
+    <string name="boton_siguiente">SIGUIENTE</string>
+    <string name="tituloInstrucciones">INSTRUCCIONES</string>
+    <string name="boton_instrucciones">INSTRUCCIONES</string>
+
+
+
+</resources>
